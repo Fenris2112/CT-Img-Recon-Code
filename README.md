@@ -1,0 +1,1 @@
+The CT image reconstruction using neural networks repo. I developed the transformer architecture, the Unet architecture, the main.py file, flt_to_png converter, and the loss function. I worked collabortively on the SART_PNP algorithm incorporation, as well as the PSNR and SSIM metric. 
